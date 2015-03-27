@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name ESP8266)(type KiCad)(uri ${KIPRJMOD}/ESP8266.pretty)(options "")(descr ""))
+  (lib (name switches)(type Legacy)(uri ${KIPRJMOD}/switches.mod)(options "")(descr ""))
+  (lib (name SOT223)(type Legacy)(uri ${KIPRJMOD}/SOT223.mod)(options "")(descr ""))
+)

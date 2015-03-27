@@ -1,0 +1,129 @@
+Cmp-Mod V01 Created by Cvpcb (2015-03-25 BZR 5536)-product   date = 2015 March 27, Friday 00:50:49
+
+BeginCmp
+TimeStamp = /55147AE8;
+Reference = C1;
+ValeurCmp = 10µF;
+IdModule  = Capacitors_SMD:C_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55147B1E;
+Reference = C2;
+ValeurCmp = 22µF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55148A46;
+Reference = C3;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55148996;
+Reference = C4;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /551484D9;
+Reference = C5;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55148734;
+Reference = C6;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /551486D0;
+Reference = C7;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55147A4A;
+Reference = CON1;
+ValeurCmp = BARREL_JACK;
+IdModule  = Connect:BARREL_JACK;
+EndCmp
+
+BeginCmp
+TimeStamp = /55148D64;
+Reference = J1;
+ValeurCmp = DB9;
+IdModule  = Connect:DB9FC;
+EndCmp
+
+BeginCmp
+TimeStamp = /5514A933;
+Reference = K1;
+ValeurCmp = PIN2;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /5514AAB2;
+Reference = K2;
+ValeurCmp = PIN3;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /55147A12;
+Reference = M1;
+ValeurCmp = ESP-07;
+IdModule  = ESP8266:ESP-07;
+EndCmp
+
+BeginCmp
+TimeStamp = /5514A3ED;
+Reference = P1;
+ValeurCmp = GPIO1;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x07;
+EndCmp
+
+BeginCmp
+TimeStamp = /5514A609;
+Reference = P2;
+ValeurCmp = GPIO2;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /55147D72;
+Reference = SW1;
+ValeurCmp = RESET;
+IdModule  = switches:Push Button Switch 3.5X6;
+EndCmp
+
+BeginCmp
+TimeStamp = /55147C7B;
+Reference = SW2;
+ValeurCmp = PROGRAM;
+IdModule  = switches:Push Button Switch 3.5X6;
+EndCmp
+
+BeginCmp
+TimeStamp = /55147A72;
+Reference = U1;
+ValeurCmp = AMS1117-3.3;
+IdModule  = SOT223:SOT223;
+EndCmp
+
+BeginCmp
+TimeStamp = /55149207;
+Reference = U2;
+ValeurCmp = MAX232;
+IdModule  = Housings_SSOP:TSSOP-16_4.4x5mm_Pitch0.65mm;
+EndCmp
+
+EndListe
